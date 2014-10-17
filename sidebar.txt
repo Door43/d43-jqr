@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jqr:home|Door43 (jqr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jqr|d43-jqr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jqr/archive/master.zip|d43-jqr.zip]]
+
+**Recent Changes**
+{{changes>ns = jqr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jqr|Ethnologue data]]
+
